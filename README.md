@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @lithex12
+- I'm a python developer
+- I'm learning things constantly
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Binary Exploitation,buffer overflow,web exploitation
 - 💞️ I’m looking to collaborate on Livestreming,ctf
